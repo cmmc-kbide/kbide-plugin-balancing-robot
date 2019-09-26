@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-balancing-robot",
+  "title": "CMMC Balancing Robot",
+  "keywords": "cmmc, balancing, robot, esp32, arduino",
+  "description": "Plugin balancing robot for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-balancing-robot/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-balancing-robot/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["esp-idf"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
